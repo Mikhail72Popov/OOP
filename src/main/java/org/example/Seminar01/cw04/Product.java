@@ -1,4 +1,4 @@
-package org.example.cw04;
+package org.example.Seminar01.cw04;
 
 public abstract class Product {
     private String name;

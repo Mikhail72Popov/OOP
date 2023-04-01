@@ -1,4 +1,4 @@
-package org.example.cw03;
+package org.example.Seminar01.cw03;
 
 public class Chocolate extends Product{
     private Integer sugar;

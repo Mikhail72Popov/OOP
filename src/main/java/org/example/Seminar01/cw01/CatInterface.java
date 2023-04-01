@@ -1,4 +1,4 @@
-package org.example.cw01;
+package org.example.Seminar01.cw01;
 
 public interface CatInterface {
     void sayWithInterfase();

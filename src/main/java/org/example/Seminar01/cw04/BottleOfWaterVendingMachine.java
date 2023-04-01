@@ -1,4 +1,4 @@
-package org.example.cw04;
+package org.example.Seminar01.cw04;
 import java.util.List;
 
 public class BottleOfWaterVendingMachine implements Machine {

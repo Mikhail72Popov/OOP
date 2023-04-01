@@ -1,4 +1,4 @@
-package org.example.cw02;
+package org.example.Seminar01.cw02;
 
 public class Product {
     private String name;

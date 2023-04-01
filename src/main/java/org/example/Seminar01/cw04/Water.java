@@ -1,4 +1,4 @@
-package org.example.cw04;
+package org.example.Seminar01.cw04;
 
 public class Water extends Product {
     private Integer volume;
