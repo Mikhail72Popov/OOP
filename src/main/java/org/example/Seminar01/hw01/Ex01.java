@@ -1,4 +1,4 @@
-//package org.example.Seminar01.hw01;
+//package org.example.Seminar01.hw;
 //
 ///**
 // *
